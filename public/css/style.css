@@ -31,7 +31,11 @@
     z-index: 100;
     display: block;
 }
+/* .para{
+    text-align: center;
+    align-items: center;
 
+} */
 .navbar-container{
     display: flex;
     justify-content: space-between;
