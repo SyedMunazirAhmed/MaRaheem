@@ -560,6 +560,34 @@
     }
   }
 
-
-
+  @media (max-width: 1150px){
+    .fe1{
+      height: 100%;
+      width: 80vw;
+    }
+    .fe2{
+      height: 100%;
+      width: 80vw;
+    }
+  }
+  @media (max-width: 950px){
+    .fe1{
+      height: 100%;
+      width: 60vw;
+    }
+    .fe2{
+      height: 100%;
+      width: 60vw;
+    }
+  }
+  @media (max-width: 550px){
+    .fe1{
+      height: 100%;
+      width: 80vw;
+    }
+    .fe2{
+      height: 100%;
+      width: 80vw;
+    }
+  }
   
